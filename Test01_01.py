@@ -1,3 +1,5 @@
+#sdnfs,dmfns,fnsm
+
 g = 'aaaabbcaa' #input()
 gl = g.lower()
 i = 0
